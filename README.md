@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Community Backward
 
 一个基于Go的Web应用程序，使用Gin框架和MySQL数据库。
@@ -122,3 +123,6 @@ go build
 - `GET /api/dashboard` - 获取仪表盘数据（需要认证）
   - 请求头: `Authorization: Bearer jwt_token`
   - 响应: `{ "success": true, "data": { ... } }`
+=======
+# community-backward
+>>>>>>> b570cdf06861fc1cf13ec7d621d6616518fddd39
